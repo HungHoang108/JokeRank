@@ -1,5 +1,4 @@
 # JokeRank
 
 
-A basic crud app with authentification, that allow user to register, login and create posts.
-Stack: C#, .Net
+A basic crud C# & .Net core app with authentification, that allow user to register, login and create posts
